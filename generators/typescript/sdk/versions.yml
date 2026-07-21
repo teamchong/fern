@@ -4,6 +4,9 @@
     - summary: |
         Support generating TypeScript SDKs across worker shards and merging their output.
       type: feat
+    - summary: |
+        Support custom license files when the generator runs as a native local command.
+      type: feat
   createdAt: "2026-07-21"
   irVersion: 67
 - version: 3.82.4
